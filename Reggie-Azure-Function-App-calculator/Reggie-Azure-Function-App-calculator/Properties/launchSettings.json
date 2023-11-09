@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Reggie_Azure_Function_App_calculator": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7075",
+      "launchBrowser": false
+    }
+  }
+}
